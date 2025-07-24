@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 71434979,
+    "name": "Trueffet",
+    "author": "SyQual",
+    "creators": ["SyQual", "Rainstorm"],
+    "verifier": "Banana",
+    "verification": "https://www.youtube.com/watch?v=Z0ZG6V0mtLA",
+    "percentToQualify": 100,
+    "password": "210716",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Banana",
+            "link": "https://www.youtube.com/watch?v=Z0ZG6V0mtLA",
             "percent": 100,
             "hz": 360
         }
